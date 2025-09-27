@@ -44,7 +44,7 @@ src/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/ielts-institute.git
+git clone https://github.com/bhaguprajapat/IELTSInstitute.git
 cd ielts-institute
 2. Install Dependencies
 npm install
